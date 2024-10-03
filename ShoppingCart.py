@@ -1,5 +1,4 @@
-
-# create a shopiing cart program
+# create a shopping cart program
 
 foods = []
 prices = []
