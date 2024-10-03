@@ -42,7 +42,7 @@ for answer in answers:
   print(answer, end=" ")
 print()  
  
-print("Guess: ", end="  ")
+print("Guesses: ", end="")
 for guess in guesses:
   print(guess, end=" ")
 print() 
